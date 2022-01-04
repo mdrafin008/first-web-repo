@@ -8,7 +8,7 @@ h1{
 .color-oranage {
     color: orange;
 }
-section{
+.felxible{
     display: flex;
     margin-bottom: 150px;
 }
@@ -37,4 +37,13 @@ width: 80%;
     background-image: url(images/dream-bg.png);
     background-repeat: no-repeat;
     background-position: right;
+}
+.love-expire{
+    width: 40%;
+    margin: left;
+    margin: right;
+    padding: 10%;
+    padding: 10%;
+    box-shadow: 10px 10px 30px gray;
+
 }
