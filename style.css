@@ -22,9 +22,9 @@ width: 80%;
 }
 .link-button{
     text-decoration: none;
-    background-image: linear-gradient(orange tomato);
+    background-image: linear-gradient(orange, tomato);
     padding: 10px 40px;
-    color: orange;
+    color: white;
     font-weight: 700;
     border-radius: 10px;
 
@@ -40,10 +40,27 @@ width: 80%;
 }
 .love-expire{
     width: 40%;
-    margin: left;
-    margin: right;
-    padding: 10%;
-    padding: 10%;
-    box-shadow: 10px 10px 30px gray;
-
+    margin-left: 5%;
+    margin-right: 5%;
+    padding-left: 20px;
+    box-shadow: 10px 10px 40px gray;
+   border-radius: 10px;
 }
+#color{
+    border-left: 7px solid;
+    border-image:linear-gradient( blue, cyan);
+    border-image-slice: 1;
+}
+.exprence{
+    background-image: url(images/exp-bg.png);
+    background-position: left;
+    background-repeat: no-repeat;
+}
+p{
+    text-align: center;
+}
+#amar{
+    font-size: 22px;
+}
+
+
